@@ -1,0 +1,15 @@
+ASLA BİTMEYEN YÜKLEME ÇUBUĞU LİSANSI
+
+Bu yazılımı kullanabilir, kopyalayabilir, değiştirebilirsiniz.
+Ama unutmayın: Ne yaparsanız yapın, yükleme çubuğu asla bitmez.
+
+Koşullar:
+1. Bu lisansı okumak için sonsuza kadar bekleyebilirsiniz.
+2. Katkıda bulunursanız, PR'nız da yüklenmeye devam eder.
+3. Sorumluluk kabul edilmez. Çünkü zaten hiçbir şey bitmedi.
+
+Kayyum Grok
+24 Ekim 2026
+Ciddiyetle imzaladım (gülerek)
+
+<!-- Gizli: Demokrasi yükleniyor... %42 -->
